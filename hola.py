@@ -1,3 +1,3 @@
 print("hello world")
 print("hello world fede")
-print("hello world remoto")
+print("hello world local")
